@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-pydantic/commit/2bc1b037db9dfc95b5140add14de6033ec60ca1a",
       "git:hexsha": "2bc1b037db9dfc95b5140add14de6033ec60ca1a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-pydantic/commit/a744fce3d305e55465025568874f16b525ba4a3a",
